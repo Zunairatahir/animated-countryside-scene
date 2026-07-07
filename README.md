@@ -2,7 +2,7 @@
 
 A beautifully animated countryside landscape built using **HTML5 Canvas**, **CSS3**, and **Vanilla JavaScript**. The project features a rotating windmill, moving wagon, flying birds, animated grass, drifting clouds, and a dynamic daytime sky.
 
----
+--- 
 
 ## 📖 Overview
 
