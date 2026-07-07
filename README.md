@@ -34,6 +34,7 @@ This project demonstrates how to create an animated 2D landscape using the HTML5
 <img width="1113" height="667" alt="Screenshot 2026-07-08 040826" src="https://github.com/user-attachments/assets/da9e956d-954d-4635-8cc2-7d8cb4d03e20" />
 
 
+
 <img width="1112" height="666" alt="Screenshot 2026-07-08 041114" src="https://github.com/user-attachments/assets/daa42c97-3031-45db-ad93-304b1b7b1a58" />
 
 ---
