@@ -1,6 +1,6 @@
 # 🌾 Animated Countryside Scene
 
-> A beautifully animated countryside landscape built using **HTML5 Canvas**, **CSS3**, and **Vanilla JavaScript**. The project features a rotating windmill, moving wagon, flying birds, animated grass, drifting clouds, and a dynamic daytime sky.
+A beautifully animated countryside landscape built using **HTML5 Canvas**, **CSS3**, and **Vanilla JavaScript**. The project features a rotating windmill, moving wagon, flying birds, animated grass, drifting clouds, and a dynamic daytime sky.
 
 ---
 
@@ -30,19 +30,11 @@ This project demonstrates how to create an animated 2D landscape using the HTML5
 
 ### Animated Countryside Scene
 
-> *(Add a screenshot or GIF of the animation here.)*
 
-Example:
+<img width="1113" height="667" alt="Screenshot 2026-07-08 040826" src="https://github.com/user-attachments/assets/da9e956d-954d-4635-8cc2-7d8cb4d03e20" />
 
-```text
-assets/screenshots/preview.png
-```
 
-After uploading the screenshot, replace the above with:
-
-```markdown
-![Project Preview](assets/screenshots/preview.png)
-```
+<img width="1112" height="666" alt="Screenshot 2026-07-08 041114" src="https://github.com/user-attachments/assets/daa42c97-3031-45db-ad93-304b1b7b1a58" />
 
 ---
 
@@ -103,17 +95,6 @@ index.html
 in your browser
 
 or use **Live Server** in Visual Studio Code.
-
----
-
-# 📸 Screenshots
-
-
-<img width="1113" height="667" alt="Screenshot 2026-07-08 040826" src="https://github.com/user-attachments/assets/ccbb8455-e72e-4861-b4cf-88b967e14f57" />
-
-
-<img width="1112" height="666" alt="Screenshot 2026-07-08 041114" src="https://github.com/user-attachments/assets/6cd58c5e-ab13-4c8d-bc5e-de0983656c6f" />
-
 
 ---
 
