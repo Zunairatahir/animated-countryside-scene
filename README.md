@@ -53,7 +53,7 @@ This project demonstrates how to create an animated 2D landscape using the HTML5
 
 # 📂 Project Structure
 
-```
+```text
 animated-countryside-scene/
 │
 ├── index.html
@@ -61,14 +61,8 @@ animated-countryside-scene/
 ├── script.js
 ├── README.md
 ├── LICENSE
-├── .gitignore
-│
-├── assets/
-│   └── screenshots/
-│
-└── docs/
+└── .gitignore
 ```
-
 ---
 
 # 🚀 Installation
