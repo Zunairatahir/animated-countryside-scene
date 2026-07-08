@@ -51,20 +51,6 @@ This project demonstrates how to create an animated 2D landscape using the HTML5
 
 ---
 
-# 📂 Project Structure
-
-```text
-animated-countryside-scene/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── LICENSE
-└── .gitignore
-```
----
-
 # 🚀 Installation
 
 ### Clone the repository
@@ -146,7 +132,3 @@ See the `LICENSE` file for more information.
 - GitHub: https://github.com/Zunairatahir
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
