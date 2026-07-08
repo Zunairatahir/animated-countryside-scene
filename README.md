@@ -21,6 +21,9 @@ A beautifully animated countryside landscape built using **HTML5 Canvas**, **CSS
 | requestAnimationFrame() | Smooth Animation |
 
 ---
+## Live Demo
+
+https://zunairatahir.github.io/animated-countryside-scene/
 
 # Installation
 
