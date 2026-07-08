@@ -6,9 +6,7 @@ A beautifully animated countryside landscape built using **HTML5 Canvas**, **CSS
 
 # Preview
 
-### Animated Countryside Scene
-
-<img width="800" height="481" alt="windmill" src="https://github.com/user-attachments/assets/3067e523-89f4-4c00-ad11-3aee38646021" />
+<img width="400" height="241" alt="windmilll" src="https://github.com/user-attachments/assets/e22ae496-c2ef-4aed-b16e-6cd72577fd5c" />
 
 ---
 
